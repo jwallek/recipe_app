@@ -7,7 +7,7 @@
             "difficulty": "easy",
             "ingredients": ["rice", "eggs", "garlic", "green onion", "ginger", "soy sauce"],
             "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
-            "URL": "/images/recipes/fried_rice.jpg"
+            "URL": "./images/recipes/fried_rice.jpg"
         },
         {
             "id": 1,
@@ -17,7 +17,7 @@
             "difficulty": "easy",
             "ingredients": ["eggs", "cheese", "butter", "green onion"],
             "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
-            "URL": "/images/recipes/omlette.jpg"
+            "URL": "./images/recipes/omlette.jpg"
         },
         {
             "id": 2,
@@ -27,7 +27,7 @@
             "difficulty": "easy",
             "ingredients": ["bread", "cucumbers", "tomatoes", "salad", "mayonaise"],
             "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
-            "URL": "/images/recipes/sandwich.jpg"
+            "URL": "./images/recipes/sandwich.jpg"
         },
         {
             "id": 3,
@@ -37,7 +37,7 @@
             "difficulty": "medium",
             "ingredients": ["pasta", "heavy cream", "cheese", "milk", "butter"],
             "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
-            "URL": "/images/recipes/mac_and_cheese.jpg"
+            "URL": "./images/recipes/mac_and_cheese.jpg"
         },
         {
             "id": 4,
@@ -47,7 +47,7 @@
             "difficulty": "medium",
             "ingredients": ["pizza dough", "tomato sauce", "cheese", "basil", "red pepper flakes"],
             "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
-            "URL": "/images/recipes/pizza.jpg"
+            "URL": "./images/recipes/pizza.jpg"
         },
         {
             "id": 5,
@@ -57,7 +57,7 @@
             "difficulty": "medium",
             "ingredients": ["pasta", "tomato sauce", "garlic", "onion", "cheese"],
             "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
-            "URL": "/images/recipes/spaghetti.jpg"
+            "URL": "./images/recipes/spaghetti.jpg"
         },
         {
             "id": 6,
@@ -67,7 +67,7 @@
             "difficulty": "hard",
             "ingredients": ["salmon", "lemon", "asparagus", "rice", "butter"],
             "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
-            "URL": "/images/recipes/salmon.jpg"
+            "URL": "./images/recipes/salmon.jpg"
         },
         {
             "id": 7,
@@ -77,7 +77,7 @@
             "difficulty": "medium",
             "ingredients": ["tortilla", "eggs", "potato", "sausage", "cheese"],
             "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
-            "URL": "/images/recipes/breakfast_burrito.jpg"
+            "URL": "./images/recipes/breakfast_burrito.jpg"
         },
         {
             "id": 8,
@@ -87,7 +87,7 @@
             "difficulty": "easy",
             "ingredients": ["bread", "avocado", "paprika", "lemon"],
             "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
-            "URL": "/images/recipes/avocado_toast.jpg"
+            "URL": "./images/recipes/avocado_toast.jpg"
         },
         {
             "id": 9,
@@ -97,7 +97,7 @@
             "difficulty": "easy",
             "ingredients": ["oats", "milk"],
             "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
-            "URL": "/images/recipes/oatmeal.jpg"
+            "URL": "./images/recipes/oatmeal.jpg"
         },
         {
             "id": 10,
@@ -107,7 +107,7 @@
             "difficulty": "easy",
             "ingredients": ["banana", "strawberries", "yogurt", "milk"],
             "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
-            "URL": "/images/recipes/smoothie.jpg"
+            "URL": "./images/recipes/smoothie.jpg"
         }
 
     ]
