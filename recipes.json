@@ -1,0 +1,113 @@
+[
+       {
+            "id": 0,
+            "name": "Fried Rice",
+            "time": ["Lunch", "Dinner"],
+            "date": "02/22/2017",
+            "difficulty": "easy",
+            "ingredients": ["rice", "eggs", "garlic", "green onion", "ginger", "soy sauce"],
+            "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
+            "URL": "/images/recipes/fried_rice.jpg"
+        },
+        {
+            "id": 1,
+            "name": "Omlette",
+            "time": ["Breakfast"],
+            "date": "02/22/2015",
+            "difficulty": "easy",
+            "ingredients": ["eggs", "cheese", "butter", "green onion"],
+            "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
+            "URL": "/images/recipes/omlette.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Veggie Sandwich",
+            "time": ["Lunch"],
+            "date": "02/02/2020",
+            "difficulty": "easy",
+            "ingredients": ["bread", "cucumbers", "tomatoes", "salad", "mayonaise"],
+            "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
+            "URL": "/images/recipes/sandwich.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Mac and Cheese",
+            "time": ["Lunch", "Dinner"],
+            "date": "02/02/2018",
+            "difficulty": "medium",
+            "ingredients": ["pasta", "heavy cream", "cheese", "milk", "butter"],
+            "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
+            "URL": "/images/recipes/mac_and_cheese.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Pizza",
+            "time": ["Lunch", "Dinner"],
+            "date": "02/02/2022",
+            "difficulty": "medium",
+            "ingredients": ["pizza dough", "tomato sauce", "cheese", "basil", "red pepper flakes"],
+            "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
+            "URL": "/images/recipes/pizza.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Spaghetti",
+            "time": ["Dinner"],
+            "date": "02/22/2022",
+            "difficulty": "medium",
+            "ingredients": ["pasta", "tomato sauce", "garlic", "onion", "cheese"],
+            "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
+            "URL": "/images/recipes/spaghetti.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Salmon",
+            "time": ["Dinner"],
+            "date": "01/30/2022",
+            "difficulty": "hard",
+            "ingredients": ["salmon", "lemon", "asparagus", "rice", "butter"],
+            "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
+            "URL": "/images/recipes/salmon.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Breakfast Burrito",
+            "time": ["Breakfast"],
+            "date": "12/25/2020",
+            "difficulty": "medium",
+            "ingredients": ["tortilla", "eggs", "potato", "sausage", "cheese"],
+            "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
+            "URL": "/images/recipes/breakfast_burrito.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Avocado Toast",
+            "time": ["Breakfast", "Lunch"],
+            "date": "10/05/2021",
+            "difficulty": "easy",
+            "ingredients": ["bread", "avocado", "paprika", "lemon"],
+            "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
+            "URL": "/images/recipes/avocado_toast.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Oatmeal",
+            "time": ["Breakfast"],
+            "date": "04/02/2017",
+            "difficulty": "easy",
+            "ingredients": ["oats", "milk"],
+            "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
+            "URL": "/images/recipes/oatmeal.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Smoothie",
+            "time": ["Breakfast"],
+            "date": "03/15/2015",
+            "difficulty": "easy",
+            "ingredients": ["banana", "strawberries", "yogurt", "milk"],
+            "instructions": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis exercitationem unde vero aut voluptatum quam voluptatem fugit laborum non ab asperiores nemo, reiciendis quaerat placeat voluptas! Aperiam quia consequatur iste voluptas cumque iure inventore reprehenderit quo ullam doloribus hic impedit tempora vero voluptatum est fugiat repellat, odio ab laudantium tempore.",
+            "URL": "/images/recipes/smoothie.jpg"
+        }
+
+    ]
